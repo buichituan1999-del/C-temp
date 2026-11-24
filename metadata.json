@@ -1,0 +1,8 @@
+{
+  "name": "Sekkei Brief — Dịch & Tổng Kết Chỉ Thị Nội Thất Nhật–Việt",
+  "description": "Ứng dụng dịch tài liệu PDF tiếng Nhật sang tiếng Việt chuyên ngành nội thất, tự động tổng kết hạng mục cần làm, chỉnh sửa và chụp cắt hình ảnh vùng chỉ thị trực tiếp từ bản vẽ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
